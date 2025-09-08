@@ -1,0 +1,55 @@
+
+/* 관광명소 버튼 */
+.btn-tour {
+  padding: 12px 24px;
+  border-radius: 0; /* 네모 */
+  background-color: #eee;
+  border: 2px solid #444;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.btn-tour:hover {
+  background-color: #ddd;
+}
+
+/* 음식 버튼 */
+.btn-food {
+  padding: 12px 24px;
+  border-radius: 0; /* 네모 */
+  background-color: #eee;
+  border: 2px solid #444;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.btn-food:hover {
+  background-color: #ffcc80;
+}
+
+/* 기후 버튼 */
+.btn-climate {
+  padding: 12px 24px;
+  border-radius: 0; /* 네모 */
+  background-color: #eee;
+  border: 2px solid #444;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.btn-climate:hover {
+  background-color: #a5d6a7;
+}
+
+/* 퀴즈 버튼 */
+.btn-quiz {
+  margin-top: 30px;
+  padding: 15px 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  background-color: white;
+  border: 2px solid black;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.btn-quiz:hover {
+  background-color: #f0f0f0;
+}
